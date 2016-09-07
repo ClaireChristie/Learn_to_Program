@@ -1,2 +1,2 @@
-#learn_to_Program
+#Learn to Program
 Following "Learn to Program" by Chris Pine.
